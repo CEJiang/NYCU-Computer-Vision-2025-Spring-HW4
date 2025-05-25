@@ -22,8 +22,7 @@ def main():
     parser = argparse.ArgumentParser(description="PromptIR Training Script")
 
     parser.add_argument(
-        "--data_path",
-        default="hw4_realse_dataset",
+        "data_path",
         type=str,
         help="Root path to dataset.")
     parser.add_argument(
