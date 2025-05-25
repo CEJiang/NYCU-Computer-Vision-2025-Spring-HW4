@@ -47,7 +47,7 @@ NYCU-Computer-Vision-2025-Spring-HW4
     ```
     Example
     ```
-    python main.py ./hw4_release_dataset --epochs 80 --batch_size 1 --learning_rate 1e-4 --decay 5e-3 --saved_path saved_models
+    python main.py ./hw4_realse_dataset --epochs 80 --batch_size 1 --learning_rate 1e-4 --decay 5e-3 --saved_path saved_models
     ```
     2. Test Model
     ```
@@ -55,7 +55,7 @@ NYCU-Computer-Vision-2025-Spring-HW4
     ```
     Example
     ```
-    python main.py ./hw4_release_dataset --mode test
+    python main.py ./hw4_realse_dataset --mode test
     ```
 
 ## Performance snapshot
