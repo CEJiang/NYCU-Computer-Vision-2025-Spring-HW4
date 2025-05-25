@@ -3,3 +3,6 @@ hw4_realse_dataset/
 
 # python
 __pycache__/
+
+# Mac 
+.DS_Store
